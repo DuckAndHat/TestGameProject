@@ -35,6 +35,7 @@
   "name":"tesztproject",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"spr_teszt","path":"sprites/spr_teszt/spr_teszt.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
